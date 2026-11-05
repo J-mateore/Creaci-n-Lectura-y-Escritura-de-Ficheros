@@ -1,0 +1,5 @@
+Producto: cereal
+Precio: $3.0
+Cantidad: 12
+Valor total: $36.0
+-------------------------

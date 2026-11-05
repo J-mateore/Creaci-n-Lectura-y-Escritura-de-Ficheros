@@ -1,0 +1,9 @@
+Producto: leche
+Precio: $1.0
+Cantidad: 45
+Subtotal: $45.0
+Descuento: $0.0
+Total a pagar: $45.0
+-------------------------
+TOTAL ACUMULADO DE LAS VENTAS: $45.0
+================================
